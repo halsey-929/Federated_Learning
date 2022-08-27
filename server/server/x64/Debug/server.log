@@ -1,0 +1,24 @@
+﻿  server.cpp
+C:\Users\12151\Desktop\summer\server\server\server.cpp(84,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const double”，可能丢失数据
+C:\Users\12151\Desktop\summer\server\server\server.cpp(142,23): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\12151\Desktop\summer\server\server\server.cpp(142,17): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\12151\Desktop\summer\server\server\server.cpp(143,12): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\12151\Desktop\summer\server\server\server.cpp(144,12): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\12151\Desktop\summer\server\server\server.cpp(75,7): warning C4101: “sendBuffer”: 未引用的局部变量
+  server.vcxproj -> C:\Users\12151\Desktop\summer\server\x64\Debug\server.exe
